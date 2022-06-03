@@ -33,4 +33,4 @@ Elemente necesare intr-un circuit electric.
 <br />
 <br />
 ## Schema electrica
-![My Image](schema_electrica.jpg)
+![My Image](Schema_electrica.png)
